@@ -1,6 +1,6 @@
 import { Box, Icon, Image, Stack, Text } from "@chakra-ui/react";
 import React from "react";
-import work from "../assets/needtalent.png";
+import work from "../assets/needTalent.png";
 import { HiUserGroup } from "react-icons/hi";
 import { GrNotes } from "react-icons/gr";
 
